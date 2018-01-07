@@ -1,0 +1,41 @@
+sleep_interval: 30
+1100:
+  '@tacotruck':
+  - min:5
+  - max:20
+  '@grillking':
+    - min:5
+    - max:10
+  '@starbucks':
+      - min:35
+      - max:40
+1200:
+  '@tacotruck':
+   - min:20
+   - max:20
+  '@grillking':
+    - min:5
+    - max:10
+  '@starbucks':
+    - min:35
+    - max:40
+1300:
+  '@tacotruck':
+  - min:5
+  - max:20
+  '@grillking':
+    - min:5
+    - max:10
+  '@starbucks':
+    - min:35
+    - max:40
+1400:
+  '@tacotruck':
+  - min:5
+  - max:20
+  '@grillking':
+  - min:5
+  - max:10
+  '@starbucks':
+    - min:35
+    - max:40
