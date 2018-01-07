@@ -60,6 +60,9 @@ For the objectId class, this is generated uniquely every time a new post is made
   @starbucks - 47.612686, -122.344920
   @tacotruck - 47.612089, -122.344008 
   @grillking - 47.610369, -122.341335
+  
+  
+  
 '''	
 
 from 		datetime 		import 	datetime
